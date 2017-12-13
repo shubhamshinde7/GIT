@@ -67,7 +67,7 @@
             <ResponseActivityInput>
                 <xsl:if test="$HTTP-Receiver/ProcessStarterOutput/QueryString">
                     <asciiContent>
-                        <xsl:value-of select="concat(&quot;Hello shubham shinde&quot;,$HTTP-Receiver/ProcessStarterOutput/QueryString)"/>
+                        <xsl:value-of select="concat(&quot;Hello shinde&quot;,$HTTP-Receiver/ProcessStarterOutput/QueryString)"/>
                     </asciiContent>
                 </xsl:if>
             </ResponseActivityInput>
