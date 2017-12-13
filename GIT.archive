@@ -10,11 +10,15 @@
             <authorProperty>shshinde</authorProperty>
             <processProperty>/Processes/Process Definition.process</processProperty>
         </processArchive>
-        <versionProperty>2</versionProperty>
+        <versionProperty>3</versionProperty>
         <authorProperty>shshinde</authorProperty>
         <addServiceSettableGvars>true</addServiceSettableGvars>
         <name>GIT</name>
-        <designer/>
-        <fileLocationProperty>C:\Users\shshinde\GIT.ear</fileLocationProperty>
+        <designer>
+            <lockedProperties/>
+            <fixedChildren/>
+            <resourceDescriptions/>
+        </designer>
+        <fileLocationProperty>D:\BPM_BW_Shadowing\GIT\GIT.ear</fileLocationProperty>
     </enterpriseArchive>
 </Repository:repository>
